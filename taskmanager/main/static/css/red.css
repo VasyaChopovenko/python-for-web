@@ -175,7 +175,7 @@ h1 span {
 	font-size:21px;
 	display:block;
 	color:#803a3a;
-	margin-top: 10px;
+	margin-top: 30px;
 }
 
 h2 {
@@ -194,7 +194,7 @@ h2 {
 p {
 	width:500px;
 	margin-left:40px;
-	float:right;	
+	float:right;
 }
 
 p img {
@@ -267,7 +267,7 @@ ol {
 	width:500px;
 	margin-left:40px;
 	list-style: decimal;
-	
+
 }
 
 ol li {
@@ -280,7 +280,7 @@ dl {
 	float:right;
 	width:500px;
 	margin-left:40px;
-	
+
 }
 
 dt {
@@ -301,7 +301,7 @@ ul.unordered {
 	float:right;
 	width:500px;
 	margin-left:40px;
-	
+
 }
 
 ul.unordered li {
@@ -321,7 +321,7 @@ ul.info {
 	float:right;
 	width:500px;
 	margin-left:40px;
-	list-style-type: none; 
+	list-style-type: none;
 }
 
 ul.info li {
@@ -345,7 +345,7 @@ ul.skills {
 	margin-left:40px;
 	margin-top:-6px;
 	list-style-type: none;
-	
+
 }
 
 ul.skills li {
@@ -401,7 +401,7 @@ img.portrait {
 	padding-bottom:36px;
 	margin-left:50px;
 	float:left;
-	
+
 }
 
 
@@ -542,7 +542,7 @@ img.portrait {
 #message a {
 	color: #fff;
 }
-	
+
 /* ELEMENTS */
 /* ----------------------------------------- */
 
@@ -710,7 +710,7 @@ textarea:focus {
 	display: block;
 	clear: both;
 	width:90px;
-	height: 33px; 
+	height: 33px;
 	border:none;
 	float:left;
 	margin-left: 80px;

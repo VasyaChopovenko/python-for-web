@@ -1,0 +1,19 @@
+a.btn {
+    color: #fff;
+    text-decoration: none;
+    user-select: none;
+    background: rgb(212, 75, 56);
+    padding: 15px 5px;
+    outline: none;
+    margin-left: 875px;
+}
+
+a.btn:hover {
+    background: rgb(232, 95, 76);
+}
+
+a.btn:active {
+    background: rgb(152, 15, 0);
+}
+
+
