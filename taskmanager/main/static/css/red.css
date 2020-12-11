@@ -433,10 +433,6 @@ img.portrait {
 	background-image:url(../images/icn-tel.gif);
 }
 
-.self ul li.web {
-	background-image:url(../images/icn-web.gif);
-}
-
 .self ul li {
 	background-repeat: no-repeat;
 	padding-left:26px;
